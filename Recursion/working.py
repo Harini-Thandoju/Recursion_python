@@ -1,11 +1,11 @@
-def firstMethod()
-sencondMethod()
+def firstMethod():
+    secondMethod()
 print("Iam The first method")
-def secondMethod()
-thirdMethod()
+def secondMethod():
+    thirdMethod()
 print("Iam The second method")
-def thirdMethod()
-fourthMethod()
+def thirdMethod():
+    fourthMethod()
 print("Iam The third method")
-def fourthMethod()
-print("Iam The fourth method")
+def fourthMethod():
+    print("Iam The fourth method")
